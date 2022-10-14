@@ -1,0 +1,110 @@
+*{padding:0px;margin:0px}
+a,p,span,li{font-family:"Quicksand","Montserrat";font-weight: 400}
+h1,h2,h3,h4,h5,h6{text-transform: uppercase;font-family:"Quicksand","Montserrat";}
+
+
+.upper-nav{padding: 3px;width: 100%;display: block;}
+.upper-nav .upper-header-social i{font-size:0.8em;font-weight: 300;}
+.upper-nav .upper-header-social span{margin-right: 17px;color: #666}
+#header{width:100%;padding:3px;background-color: transparent !important;x-index:10}
+#header .navbar-brand{width:15%}
+#header .navbar-brand img{width:100%;vertical-align: top;}
+#header .collapse.navbar-collapse ul li a{color:#666;padding:5px;width:160px;text-transform: uppercase;text-align:center;font-weight:bold;font-size:0.9em}
+
+
+.carousel{height:100vh;width:100%;}
+.carousel-item{width:100%;height:100vh;background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.carousel-item .carousel-banner-overlay{width: 100%;height: 100vh;background-color: rgba(0,0,0,0.3)}
+
+.services .row{width: 100.8%}
+.services .col-md-3{padding: 0px;margin: 0px}
+.services .services-text{width: 100%;height: 65vh;padding: 90px 15px;text-align: center;}
+.services i{font-size: 3.0em;color: #fff}
+.services .services-text h3{color: #fff;font-size: 2.0em;font-weight: 700}
+.services .services-text p{color: #ebebeb;line-height: 19px;}
+.services .services-text.fashion{background-color: #004799;}
+.services .services-text.consult{background-color: #003c80;}
+.services .services-text.plumbing{background-color: #003066;}
+.services .services-text.supply{background-color: #002d62}
+
+
+
+.admission-form .admission-form-overlay{background-color: rgba(0,0,0,0.3);width: 100%;height: 45vh;padding:80px 30px;text-align: right;color: #ebebeb}
+
+.web-blog,.great-works{padding: 40px 60px}
+.web-blog .web-blog-image-banner{width: 100%;height: 75vh;background-color: rgba(0,0,0,0.3)}
+.web-blog .web-blog-image{background-repeat: no-repeat;background-size: cover;backgrpund-position: center center;height: 75vh;width: 100%}
+
+.cat-banner{width:100%;height:95vh;background-size: cover;background-repeat: no-repeat;background-attachment: fixed;}
+.cat-banner .cat-banner-overlay{width:100%;height:95vh;background-color: rgba(0,0,0,0.0)}
+.category-info{padding:80px 60px;text-align: center;background-color: #004799;}
+.category-info i{font-size: 6.0em;color: #f2f2f2}
+.category-info h3{color: #fff}
+.category-info p{color: #f2f2f2}
+
+.great-works .great-works-image-banner{height:300px;width:100%;background-size:cover;background-position:center center;backgroud-repeat:no-repeat;}
+/*.great-works .great-works-image-banner img{width: inherit;height:200px;}*/
+.great-works .great-works-details{text-align: center}
+.great-works h5{color: #333;font-weight: 700;font-size:1.5em}
+.product-page{padding: 120px 0px;}
+.product-page .carousel{width: 100%;height: 100vh;}
+.product-page .carousel-item{width:100%;height:100vh;background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.product-page .view-more{width: 100%;border-bottom: 1px solid #f3f3f3;height: 18vh;padding: 25px 0px}
+.product-page .view-more .social-icons{width: 100%;}
+.product-page .view-more .social-icons .social{width: 16.2%;height: 10vh;color: #fff;float: left;margin-right: 10px;text-align: center;}
+.product-page .view-more .social-icons .social i{margin-top: 16px;font-size:1.5em}
+.product-page .view-more .social-icons .social.facebook{background-color:#4267B2}
+.product-page .view-more .social-icons .social.twitter{background-color:#1DA1F2}
+.product-page .view-more .social-icons .social.instagram{background-color:#405DE6}
+.product-page .view-more .social-icons .social.linkedin{background-color: #0A66C2}
+.product-page .item-description{padding: 25px 0px;border-top: 1px solid #f3f3f3;border-bottom: 1px solid #f3f3f3}
+
+
+.what-we-stand-for{background-color: #002d62;padding: 100px 60px;text-align: center;color: #fff}
+.what-we-stand-for i{font-size: 6.0em;}
+
+
+.footer{background-color:#333;padding: 100px 80px}
+.footer{background-color:#333}
+.footer .news_letter_subcription input{padding:8px;border:1px solid 1px solid #f2f2f2;border-radius:0px}
+.footer .news_letter_subcription button{padding:8px;border:none;border-radius:0px;width:20%;background-color:goldenrod}
+.footer .contact-info-box{position:relative;display:block;margin-bottom:5px;height:65px;width:100%}
+.footer .contact-info-box .contact-info-box-icon,.footer .contact-info-box .contact-info-box-details{position:absolute;height:inherit;}
+.footer .contact-info-box .contact-info-box-icon{left:0px;width:20%;background-color: #404040;box-shadow: 0px 0px 1px 0px #f2f2f2;text-align:center;line-height:70px ;color:#f3f3f3}
+.footer .contact-info-box .contact-info-box-icon i{font-size:1.5em}
+.footer .contact-info-box .contact-info-box-details{right:0px;width:78%;background-color: #404040;margin-left:2px;padding:5px;box-shadow: 0px 0px 1px 0px #f2f2f2;}
+.footer .follow-us{margin-top:10px;}
+.footer .follow-us .social-media-label{width:100%;margin-top:5px;}
+
+.footer .follow-us .social-media-label .social-media-icon{float:left;margin-right:10px;margin-bottom: 10px;width:21.7%;padding:7px;height:80px;background-color: #404040;;text-align:center;line-height:72px;box-shadow: 0px 0px 1px 0px #f2f2f2;}
+.footer .follow-us .social-media-label .social-media-icon i{color:#f3f3f3;font-size:1.5em}
+/*.footer .follow-us .social-media-label .social-media-icon i.facebook{color: #4267B2}
+.footer .follow-us .social-media-label .social-media-icon i.instagram{color:#405DE6}
+.footer .follow-us .social-media-label .social-media-icon i.twitter{color:#1DA1F2}
+.footer .follow-us .social-media-label .social-media-icon i.linkedin{color: #0A66C2}
+.footer .follow-us .social-media-label .social-media-icon i.youtube{color: #ff0000}*/
+.footer h5{margin:10px 0px;color:#fff}
+
+.footer h6{font-size:1.0em;font-weight:600;color:#333;color:#f2f2f2}
+.footer span{color:#ccc}
+.footer .outer{width:100%;border-top:2px solid #fff;padding:5px 0px;border-bottom:2px solid #fff}
+.footer .inner{width:100%;border-top:2px solid #fff;padding:15px 0px;border-bottom:2px solid #fff;color:#ccc}
+.footer .outer-lower{padding:5px 0px;}
+.footer .inner-lower{padding:15px 0px;color:#ccc}
+
+
+@media only screen and (min-width:320px) and (max-width:768px){
+   #header .navbar-brand img{height: 70px;width: 100%;vertical-align: top;}
+   .services .row{width: 100.899%}
+   .services .services-text{padding: 40px 15pxheight: 25vh
+   .admission-form .admission-form-overlay{padding:30px 30px;}
+   .web-blog,.great-works{padding: 40px 10px}	
+   .web-blog .web-blog-image-banner{width: 100%;height:50vh;background-color: rgba(0,0,0,0.3)}
+   .web-blog .web-blog-image{background-repeat: no-repeat;background-size: cover;backgrpund-position: center center;height: 50vh;width: 100%}
+   .great-works .great-works-blog{position: relative;height: 25vh;border-bottom: 1px solid #f3f3f3}
+   .great-works .great-works-blog .great-works-image-banner,.great-works .great-works-blog .great-works-details{position:absolute;}
+   .great-works .great-works-image-banner{width: 30%;height: 22vh;float: left;}
+   .great-works-blog .great-works-details{right: 0px;text-align: left;width: 68%;}
+   
+   .footer{padding: 20px 15px}
+}
